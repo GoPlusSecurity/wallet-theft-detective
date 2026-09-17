@@ -75,7 +75,7 @@ An evidence record should contain at least:
 ## Report template
 
 ```markdown
-# Asset Lighthouse Investigation Report
+# Wallet Theft Detective Investigation Report
 
 ## Risk level
 ## Most likely root cause and confidence
