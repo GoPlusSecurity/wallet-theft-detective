@@ -1,9 +1,9 @@
 ---
-name: asset-lighthouse
+name: wallet-theft-detective
 description: A read-only local triage and root-cause analysis guide for suspected crypto theft involving Web3 wallets, exchanges, and development devices. Import into Codex, OpenClaw, Hermes, or another host Agent to investigate clipboard address replacement, infostealers, malicious browser or IDE extensions, fake wallets, phishing scripts, supply-chain poisoning, remote control, DNS/proxy hijacking, mobile permission abuse, seed storage exposure, wallet connections, and institutional frontend compromise. Version 1 does not query blockchain data, analyze transactions or fund flows, or read private keys, seed phrases, passwords, cookies, or wallet vaults.
 ---
 
-# Asset Lighthouse
+# Wallet Theft Detective
 
 ## Positioning
 
