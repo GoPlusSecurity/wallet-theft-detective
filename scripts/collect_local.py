@@ -25,7 +25,7 @@ from pathlib import Path
 from typing import Any
 
 
-SCHEMA = "asset-lighthouse-evidence/v2"
+SCHEMA = "wallet-theft-detective-evidence/v2"
 COMMAND_TIMEOUT = 8
 MAX_ROWS = 200
 MAX_BROWSER_PROFILES = 20
