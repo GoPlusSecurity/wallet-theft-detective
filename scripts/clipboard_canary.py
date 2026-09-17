@@ -22,7 +22,7 @@ from datetime import datetime, timezone
 from typing import Any
 
 
-SCHEMA = "asset-lighthouse-clipboard-test/v2"
+SCHEMA = "wallet-theft-detective-clipboard-test/v2"
 DEFAULT_VALUE = "0x1111111111111111111111111111111111111111"
 MAX_TEST_VALUE_LENGTH = 256
 MAX_CLIPBOARD_CAPTURE_LENGTH = 1024
