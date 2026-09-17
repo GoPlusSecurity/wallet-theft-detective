@@ -1,6 +1,6 @@
-# Asset Lighthouse
+# Wallet Theft Detective
 
-Asset Lighthouse is a lightweight, read-only Agent skill for investigating suspected Web3 crypto theft on local devices. It helps a host Agent such as Codex, OpenClaw, or Hermes collect safe evidence, identify likely root causes from common theft techniques, and provide containment and remediation guidance.
+Wallet Theft Detective is a lightweight, read-only Agent skill for investigating suspected Web3 crypto theft on local devices. It helps a host Agent such as Codex, OpenClaw, or Hermes collect safe evidence, identify likely root causes from common theft techniques, and provide containment and remediation guidance.
 
 ## What this skill covers
 
@@ -90,7 +90,7 @@ Use `--address` (or its `--value` alias) to test with a public address from the 
 ## Directory structure
 
 ```text
-asset-lighthouse/
+wallet-theft-detective/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
@@ -113,4 +113,4 @@ No background service or third-party Python package is required. The scripts req
 
 Version 1 is a test-candidate release. Syntax checks, cross-platform dry-runs, Windows read-only collection, network-summary collection, output protection, and package-integrity checks have passed. Real macOS live testing and host-specific integration testing remain environment-dependent.
 
-Asset Lighthouse is an investigation aid, not a replacement for EDR, antivirus, incident response, or professional digital forensics. This skill is released under the [MIT License](LICENSE).
+Wallet Theft Detective is an investigation aid, not a replacement for EDR, antivirus, incident response, or professional digital forensics. This skill is released under the [MIT License](LICENSE).
