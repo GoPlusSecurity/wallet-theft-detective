@@ -42,8 +42,13 @@ Never ask the user to provide a real address, private key, seed phrase, cookie, 
 | Only a browser or wallet extension is abnormal | 3, 7, 12, 16 |
 | Only one website is abnormal or redirects | 6, 7, 11, 15 |
 | An anomaly began after software installation | 2, 4, 5, 14 |
+| A trusted wallet application unexpectedly asks for a seed | 2, 5, 8, 18 |
+| An official, signed, or provenance-valid update precedes the anomaly | 4, 5 |
+| New or changed `CLAUDE.md`, `.cursorrules`, Agent, or MCP configuration appears | 5 |
+| A deepfake or fake meeting led to copied command execution | 6, 14 |
 | Several accounts or browser sessions are compromised | 2, 13, 16, 20 |
 | A phone shows overlays, automatic clicks, or recording | 8, 9, 14, 17 |
+| Suspicious Safari exposure or an Apple threat notification appears | 9, 17 |
 | Development environment, dependencies, or CI/CD are abnormal | 4, 5, 10 |
 | Hardware wallet or device provenance is suspicious | 8, 18 |
 | An unfamiliar WalletConnect session, Session Key, or module appears | 7, 12, 19 |
