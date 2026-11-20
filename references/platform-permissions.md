@@ -53,7 +53,9 @@ Prefer user processes, systemd user services, Cron, shell configuration, browser
 
 ## Mobile
 
-Rely on user self-checks: app source, photo/clipboard/accessibility/screen-recording/device-management/VPN permissions, and account sessions. Do not ask the user to grant remote control, screen recording, or full-backup access for ordinary triage.
+Rely on user-guided checks of the OS version and exposure-time version, Safari history or redirects, application source, profiles, photo/clipboard/accessibility/screen-recording/device-management/VPN permissions, account sessions, and Apple threat notifications. Do not ask the user to grant remote control, jailbreak the device, create or expose a full-device backup, enroll in MDM, or provide forensic filesystem access for routine triage.
+
+Ordinary local checks cannot definitively exclude a DarkSword-style full-chain compromise on a non-jailbroken iPhone. Record this limitation and recommend professional mobile forensics when the user is targeted, high-value, or received a threat notification; do not substitute extra permissions for specialist acquisition.
 
 ## Failure fallback
 
