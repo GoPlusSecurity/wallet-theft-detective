@@ -1,6 +1,9 @@
 # Wallet Theft Detective
 
 Wallet Theft Detective is a lightweight, read-only Agent skill for investigating suspected Web3 crypto theft on local devices. It helps a host Agent such as Codex, OpenClaw, or Hermes collect safe evidence, identify likely root causes from common theft techniques, and provide containment and remediation guidance.
+If you are not using an Agent, complete the
+[Wallet Theft Incident Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScKdYpu7YoanpZ9GX2qqqdAsyMlQpIjGB5mhXRTU6oE7Ksdog/viewform?usp=dialog).
+The questionnaire does not require seed phrases, private keys, passwords,cookies, tokens, or wallet files.
 
 ## What this skill covers
 
